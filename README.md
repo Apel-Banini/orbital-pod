@@ -31,8 +31,8 @@ Welcome to the **Orbital Pod**, the operating system powering the immersive and 
 ## Getting Started
 
 ### Requirements
+- **Orbital Capsule Disc & Drive**: Includes the operating system and your desired XR content.  
 - **Orbital Cortex**: A pocket-sized computer powering the Orbital Lens.  
-- **Orbital Capsule Disc**: Includes the operating system and your desired XR content.  
 - **Orbital Lens**: The modular XR headset for immersive experiences.  
 
 ### Installation
@@ -80,7 +80,7 @@ We welcome developers and creators to contribute to the Orbital Pod and its ecos
 
 ## Support
 
-For troubleshooting, documentation, and FAQs, please visit our [Support Page](https://apelbanini.com/support) or join our community on [Discord](https://discord.gg/example).
+For troubleshooting, documentation, and FAQs, please visit our [Support Page](https://apelandbanini.com/resources) or join our community on [Discord](https://discord.gg/apelandbanini).
 
 ---
 
@@ -92,6 +92,6 @@ The Orbital Pod is distributed under the [MIT License](LICENSE.md). See the lice
 
 ## About Apel & Banini
 
-Apel & Banini is a forward-thinking organization dedicated to merging art, technology, and design. Our mission is to empower creators with tools for crafting immersive experiences that connect and inspire.
+Apel & Banini is where art, design, and technology converge to create immersive, modular experiences that empower creativity and connection. From open-source XR tools to beautifully crafted hardware enclosures, we enable artists, technologists, and visionaries to build and share interactive digital worlds. Our mission is simple: to make innovation accessible, collaborative, and endlessly inspiring.
 
-[Learn More](https://apelbanini.com)
+[Learn More](https://apelandbanini.com)
