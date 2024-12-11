@@ -10,14 +10,14 @@ Welcome to the **Orbital Pod**, the operating system powering the immersive and 
    The Orbital Pod replaces the traditional desktop metaphor with a library-inspired interface. Navigate content in world space with intuitive interactions based on books, rooms, and portals.
 
 2. **Collaborative Environments**  
-   Supports up to three performers working together in real-time, with live experiences broadcast to up to 50 participants.
+   Supports up to three performers working together in real-time, with live experiences broadcast to up to hundreds of participants.
 
 3. **Interchangeable Media and OS**  
    - Runs from the **Orbital Capsule Cartridge** (CFExpress card).
    - Swap cartridges to load third-party games, apps, or operating systems.
 
 4. **Marker-Based Interactions**  
-   Use SD cards or physical books with unique markers for spatial navigation and interaction.
+   Use SD cards and physical books with unique markers for spatial navigation and interaction.
 
 5. **Offline and Local Networking**  
    - Peer-to-peer sharing and collaboration via local WiFi.  
@@ -31,13 +31,13 @@ Welcome to the **Orbital Pod**, the operating system powering the immersive and 
 ## Getting Started
 
 ### Requirements
-- **Orbital Core**: A pocket-sized computer powering the Orbital Ecosystem.  
-- **Orbital Capsule Cartridge**: Includes the operating system and your desired XR content.  
+- **Orbital Cortex**: A pocket-sized computer powering the Orbital Lens.  
+- **Orbital Capsule Disc**: Includes the operating system and your desired XR content.  
 - **Orbital Lens**: The modular XR headset for immersive experiences.  
 
 ### Installation
-1. Insert the **Orbital Capsule Cartridge** into the **Orbital Capsule Drive**.
-2. Connect the **Orbital Core** to your **Orbital Lens** or other compatible display device.
+1. Insert the **Orbital Capsule Disc** into the **Orbital Capsule Drive**.
+2. Connect the **Orbital Cortex** to your **Orbital Lens** or other compatible display device.
 3. Power on the system to boot into the Orbital Pod.
 
 ---
@@ -53,7 +53,7 @@ Welcome to the **Orbital Pod**, the operating system powering the immersive and 
 - Use the **Orbital Core** to broadcast live XR experiences to participants.
 
 ### Customization
-- Swap the **Orbital Capsule Cartridge** to load new content or apps.
+- Swap the **Orbital Capsule Disc** to load new content or apps.
 - Customize environments and worlds using the built-in tools or external creation platforms.
 
 ---
